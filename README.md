@@ -1,7 +1,7 @@
-### Hi there 👋
+### Bienvenido a mi perfil 👋
 
 <!--
-**barry503/barry503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**barry503/barry503** 
 
      \\\\\\\
                             \\\\\\\\\\\\
