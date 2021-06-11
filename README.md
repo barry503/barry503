@@ -22,19 +22,7 @@ _____________|','   ///_/-------------/   |                                 ||  
   
   ### Bienvenido a mi perfil 👋
 
-<!--
-**barry503/barry503** 
-
-     \\\\\\\
-
 #Jose Ramirez
 ![](foto.jpg)
-                                                                                                                                                                                
-                                                                                                                                                                                
-                                                                                                                                                                                
-                                                                                                                                                                                
-                                                                                                                                                                                
-                                                                                                                                                                                
-                                                                                                                                                                                
-                                                                                                                                                                                
-                                                                                                                                                                                
+<!--
+**barry503/barry503** -->
