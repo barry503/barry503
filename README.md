@@ -7,12 +7,12 @@ soy un desarrollador de aplicaciones web dinamicas y progresivas(PWA) para  mejo
 Mi pasion es desarrollar aplicaciones mas diversas y con muy poca complejidad para poder realizar un trabajo eficiente.
 Uno de mis pasatiempos es orientar alas personas en el uso de las nuevas tecnologias puedes contactarme a mi correo electronico o en mis distintas redes sociales o visita mi blog de tecnologia en el que publico articulos de distintos lenguajes de programacion.
 
-![Github](https://github.com/barry503)
+![Github](https://github-readme-stats.vercel.app/api?username=barry503&custom_title=JoseRamire'z%20Github%20Stats&show_icons=true&title_color=283e4a&icon_color=283e4a&include_all_commits=true&bg_color=f0f0f0)
 
 ## Herramientas Utilizadas 📋
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black&labelColor=f0f0f0)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=f0f0f0)]()
-[![PHP](https://)]()
+[![PHP](https://img.shields.io/badge/php-1572B6?style=for-the-badge&logo=php&logoColor=black&labelColor=f0f0f0)]()
 </br>
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black&labelColor=f0f0f0)]()
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=black&labelColor=f0f0f0)]()
