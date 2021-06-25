@@ -30,9 +30,9 @@ Uno de mis pasa tiempos es orientar a las personas en el uso de las nuevas tecno
 acerca de...
 
 ## Mis Habilidades 📋
-![Creatividad](https://img.shields.io/badge/Creativity-f0f0f0?style=for-the-badge)
-![Solventar Problemas](https://img.shields.io/badge/Problem%20solving-f0f0f0?style=for-the-badge)
-![Decisiines proactivas](https://img.shields.io/badge/Decision%20making-f0f0f0?style=for-the-badge)
+![Creatividad](https://img.shields.io/badge/Creatividad-f0f0f0?style=for-the-badge)
+![Solventar Problemas](https://img.shields.io/badge/Solventar%problemas-f0f0f0?style=for-the-badge)
+![Decisiones proactivas](https://img.shields.io/badge/Decisiones%proactivas-f0f0f0?style=for-the-badge)
 ![Time management and organization](https://img.shields.io/badge/Time%20management%20and%20organization-f0f0f0?style=for-the-badge)
 ![Commitment](https://img.shields.io/badge/Commitment-f0f0f0?style=for-the-badge)
 ![Inteligencia Emocional](https://img.shields.io/badge/Emotional%20intelligence-f0f0f0?style=for-the-badge)
