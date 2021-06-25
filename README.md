@@ -5,7 +5,7 @@
 soy un desarrollador de aplicaciones web dinamicas y progresivas(PWA) para  mejor el  rendimiento del software desarrollado en funcion de todas las plataformas posibles.
 
 Mi pasion es desarrollar aplicaciones mas diversas y con muy poca complejidad para poder realizar un trabajo eficiente.
-Uno de mis pasatiempos es orientar alas personas en el uso de las nuevas tecnologias puedes contactarme a mi correo electronico o en mis distintas redes sociales o visita mi blog de tecnologia en el que publico articulos de distintos lenguajes de programacion.
+Uno de mis pasa tiempos es orientar a las personas en el uso de las nuevas tecnologias puedes contactarme a mi correo electronico o en mis distintas redes sociales o visita mi blog de tecnologia en el que publico articulos de distintos lenguajes de programacion.
 
 ![Github](https://github-readme-stats.vercel.app/api?username=barry503&custom_title=JoseRamire'z%20Github%20Stats&show_icons=true&title_color=283e4a&icon_color=283e4a&include_all_commits=true&bg_color=f0f0f0)
 
