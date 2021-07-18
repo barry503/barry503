@@ -46,7 +46,7 @@ acerca de...
 
 [![Blog Dev/Azquil](https://img.shields.io/badge/Blog-Dev/Azquil-283e4a?style=for-the-badge&logo=dev.to&logoColor=black&labelColor=f0f0f0)](https://devazquil.blogspot.com/)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joseRamirez-0077B5?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=f0f0f0)](https://www.linkedin.com/in/jose-ramirez-2a7218200)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joseRamirez-0077B5?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=f0f0f0)](https://www.linkedin.com/in/josé-ramirez-2a7218200)
 </br>
 [![Facebook](https://img.shields.io/badge/Facebook-@joseRamirez-1877F2?style=for-the-badge&logo=facebook&logoColor=black&labelColor=f0f0f0)](https://www.facebook.com/barry.rx5035329)
 </br>
