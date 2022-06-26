@@ -50,7 +50,7 @@ acerca de...
 </br>
 [![Facebook](https://img.shields.io/badge/Facebook-@joseRamirez-1877F2?style=for-the-badge&logo=facebook&logoColor=black&labelColor=f0f0f0)](https://www.facebook.com/barry.rx5035329)
 </br>
-[![Instagram](https://img.shields.io/badge/Instagram-@barryrrcodp-E4405F?style=for-the-badge&logo=instagram&logoColor=black&labelColor=f0f0f0)](https://www.instagram.com/barryrrcodp)
+[![Instagram](https://img.shields.io/badge/Instagram-@barry_5o3-E4405F?style=for-the-badge&logo=instagram&logoColor=black&labelColor=f0f0f0)](https://www.instagram.com/barry_5o3)
 
 ## CONTACTO
 [![Email](https://img.shields.io/badge/momar5618@gmail.com-personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=black&labelColor=f0f0f0)](mailto:momar5618@gmail.com)
